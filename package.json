@@ -1,0 +1,25 @@
+{
+  "name": "site_agenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "dev": "next"
+  },
+  
+  "author": "Ernilson Daniel Lima de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "next": "^12.3.4",
+    "path": "^0.12.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^8.7.1"
+  }
+}
